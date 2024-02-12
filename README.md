@@ -15,7 +15,7 @@ class MusicEnthusiast {
 
     public function greet() {
         echo "This repository is dedicated to the song "Say It. (言って。)" by the Japanese music duo Yorushika.";
-        echo "Yorushika, formed by n-buna (music) and suis (vocals), is known for their emotionally charged and introspective music.";
+        echo "Yorushika, formed by n-buna (music) and suis (vocals), is known for their emotionally and introspective music.";
         echo "'Say It. (言って。)' is one of their popular tracks, known for its beautiful composition and heartfelt lyrics.";
     }
 }
@@ -25,10 +25,37 @@ $musicFan->greet();
 
 ?>
 ```
+<div align="center">
+<img src="[https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0](https://mfiles.alphacoders.com/984/984792.jpg)" width="25%" align="right" />
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+</div>
+**Cloud Services:**
 
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
 ![Python](https://img.shields.io/badge/yorushika-8A2BE2)
-![Python]([https://img.shields.io/badge/suis-%E3%82%B9%E3%82%A4](https://img.shields.io/badge/suis-%E3%82%B9%E3%82%A4)-8A2BE2))
-![Python]([https://img.shields.io/badge/nbuna%20-(%E3%83%8A%E3%83%96%E3%83%8A)-8A2BE2](https://img.shields.io/badge/nbuna%20-(%E3%83%8A%E3%83%96%E3%83%8A)-8A2BE2))
 [![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)](https://www.php.net/)
 [![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=8CC84B)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)](https://www.python.org/)
+
+**Tools and Services:**
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
