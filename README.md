@@ -26,7 +26,7 @@ $musicFan->greet();
 ?>
 ```
 <div align="center">
-<img src="[https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0](https://mfiles.alphacoders.com/984/984792.jpg)" width="25%" align="right" />
+<img src="[https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0]([https://mfiles.alphacoders.com/984/984792.jpg](https://wallpapers.com/images/featured/4k-anime-phone-qjegcr7md0ije31m.jpg))" width="25%" align="right" />
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Platform Engineer
@@ -38,11 +38,6 @@ $musicFan->greet();
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
 </div>
 **Cloud Services:**
 
