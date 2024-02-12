@@ -15,7 +15,7 @@ class MusicEnthusiast {
 
     public function greet() {
         echo "This repository is dedicated to the song "Say It. (言って。)" by the Japanese music duo Yorushika.";
-        echo "Yorushika, formed by n-buna (music) and suis (vocals), is known for their emotionally and introspective music.";
+        echo "Yorushika, formed by n-buna and suis, is known for their emotionally and introspective music.";
         echo "'Say It. (言って。)' is one of their popular tracks, known for its beautiful composition and heartfelt lyrics.";
     }
 }
@@ -42,12 +42,12 @@ $musicFan->greet();
 **Tools and Services:**
 
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
+<div align="center">
 <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" height="40" />
 
 **Connect with Me**
 
-<div align="center">
+
 <a href="https://github.com/1tte" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -64,4 +64,4 @@ $musicFan->greet();
 
 **My stats**
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1tte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
