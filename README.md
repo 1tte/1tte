@@ -41,7 +41,7 @@ $musicFan->greet();
 [![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)](https://www.java.com/)
-[![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=0095D5)](https://kotlinlang.org/)
+[![Kotlin](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0095D5)](https://flutter.dev/)
 
 **Tools and Services**
 
@@ -54,17 +54,14 @@ $musicFan->greet();
 **Happiness**
 
 [![Metasploit](https://img.shields.io/badge/Pen_Test-Metasploit-informational?style=flat&logo=metasploit&logoColor=white&color=E6522C)](https://www.metasploit.com/)
-[![Nmap](https://img.shields.io/badge/Pen_Test-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=4E9BCD)](https://nmap.org/)
 [![Burp Suite](https://img.shields.io/badge/Pen_Test-Burp_Suite-informational?style=flat&logo=burp-suite&logoColor=white&color=FF6F61)](https://portswigger.net/burp)
 [![Wireshark](https://img.shields.io/badge/Pen_Test-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=1679A7)](https://www.wireshark.org/)
 [![OWASP ZAP](https://img.shields.io/badge/Pen_Test-OWASP_ZAP-informational?style=flat&logo=owasp&logoColor=white&color=2E2E2E)](https://www.zaproxy.org/)
-[![Aircrack-ng](https://img.shields.io/badge/Pen_Test-Aircrack_ng-informational?style=flat&logo=aircrack-ng&logoColor=white&color=8E44AD)](https://www.aircrack-ng.org/)
-[![Hashcat](https://img.shields.io/badge/Pen_Test-Hashcat-informational?style=flat&logo=hashcat&logoColor=white&color=3498DB)](https://hashcat.net/hashcat/)
 [![sqlmap](https://img.shields.io/badge/Pen_Test-sqlmap-informational?style=flat&logo=python&logoColor=white&color=306998)](http://sqlmap.org/)
 
 <div align="center">
 <img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" height="60" />
 
-**My stats**
+**あのね**
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1tte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
