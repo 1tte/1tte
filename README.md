@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" height="60" />
+<img src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif" height="60" width="60"/>
 
 **あのね**
 </div>  
