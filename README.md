@@ -20,7 +20,7 @@ class MusicEnthusiast {
     }
 
     public function greet() {
-        echo "This repository is dedicated to the song "Say It. (言って。)" by the Japanese music duo Yorushika.";
+        echo "This repository is dedicated to the song 'Say It. (言って。)' by the Japanese music duo Yorushika.";
         echo "Yorushika, formed by n-buna and suis, is known for their emotionally and introspective music.";
         echo ""Say It. (言って。)" is one of their popular tracks, its beautiful composition and heartfelt lyrics.";
     }
